@@ -12,6 +12,27 @@
         android:theme="@style/Theme.Aluminiapp"
         tools:targetApi="31">
         <activity
+            android:name=".Gallery"
+            android:exported="false" />
+        <activity
+            android:name=".alumni_activitcs"
+            android:exported="false" />
+        <activity
+            android:name=".alumni_meet"
+            android:exported="false" />
+        <activity
+            android:name=".News_letter"
+            android:exported="false" />
+        <activity
+            android:name=".News_Event"
+            android:exported="false" />
+        <activity
+            android:name=".Home_page"
+            android:exported="false" />
+        <activity
+            android:name=".welcome"
+            android:exported="false" />
+        <activity
             android:name=".scroll"
             android:exported="false" />
         <activity

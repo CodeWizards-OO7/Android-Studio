@@ -12,6 +12,14 @@
         android:layout_width="409dp"
         android:layout_height="329dp">
 
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="555dp"
+            android:layout_height="960dp"
+            app:srcCompat="@drawable/huk"
+            tools:layout_editor_absoluteX="-86dp"
+            tools:layout_editor_absoluteY="-83dp" />
+
         <TextView
             android:id="@+id/textView12"
             android:layout_width="126dp"
